@@ -14,4 +14,5 @@ Mastery of a particular programming language is a very useful side effect of CS 
 ## Workload
 I spent two weeks to finish all the homework, labs and projects.I certainly learn something that I'm never thought of before, even if I already have some experience in programming. For me, it's a fantastic tour to learn the core ideas in programming. 
 
-## If you find this helpful, please take a moment to click the "Star" button.
+## Conclusion
+If you find this helpful, please take a moment to click the "Star" button.
